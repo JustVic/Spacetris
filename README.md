@@ -1,2 +1,2 @@
 # Spacetris
-simple tetris on C.
+Old simple tetris on C. Q - for exit.
